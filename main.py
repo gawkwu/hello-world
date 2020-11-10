@@ -18,7 +18,7 @@ def main():
     people = [
         Person('Jack'),
         Person('Tom'),
-        Person('Richard')
+        Person('Amy')
     ]
     person = choice(people)
     print(person)
